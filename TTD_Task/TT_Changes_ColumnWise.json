@@ -1,0 +1,144 @@
+{
+    "Course No":{
+        "1":"CS F111",
+        "2":"CS F213",
+        "3":"BITS F452",
+        "4":"CS F317",
+        "5":"BITS F232",
+        "6":"CS F342",
+        "7":"CS F222",
+        "8":"CS G623",
+        "9":"CS F301",
+        "10":"MATH F111",
+        "11":"CS F320",
+        "12":"BITS F464"
+    },
+    "Course Title":{
+        "1":"COMPUTER PROGRAMMING",
+        "2":"OBJECT ORIENTED PROG",
+        "3":"Blockchain Technology",
+        "4":"Reinforcement Learning",
+        "5":"Foundations of Data Structures and Algorithms",
+        "6":"COMPUTER ARCHITECTURE",
+        "7":"DISCR STRUC FOR COMP SCI",
+        "8":"ADVANCED OPERAT SYSTEMS",
+        "9":"PRINCIPLES OF PROGG LANG",
+        "10":"MATHEMATICS I",
+        "11":"Foundations of Data Science",
+        "12":"MACHINE LEARNING"
+    },
+    "Section No":{
+        "1":"P7",
+        "2":"P3",
+        "3":"L1",
+        "4":"L1",
+        "5":"P1",
+        "6":"T3",
+        "7":"T3",
+        "8":"L1",
+        "9":"T3",
+        "10":"T10",
+        "11":"L1",
+        "12":"L1"
+    },
+    "Existing":{
+        "1":[
+            "Paresh Saxena",
+            "Sadeep Ravikanti"
+        ],
+        "2":[
+            "Abhijit Das",
+            "Sadeep Ravikanti"
+        ],
+        "3":[
+            "JAY KAMLESH DAVE",
+            "Asmita Biswas",
+            "Chaitra C R",
+            "S Rasagna Vakkalanka"
+        ],
+        "4":[
+            "PARESH SAXENA",
+            "S Shashank"
+        ],
+        "5":[
+            "Chittaranjan Hota",
+            "Ashish Kumar Kumawat"
+        ],
+        "6":[
+            "Tamoghna Ojha"
+        ],
+        "7":[
+            "Jaldu Krishna Maitreya"
+        ],
+        "8":[
+            "Tamoghna Ojha"
+        ],
+        "9":[
+            "R Gururaj",
+            "Shreea Bose"
+        ],
+        "10":[
+            "Purohit Nisarg Bharatbhi"
+        ],
+        "11":[
+            "NL BHANUMURTHY",
+            "Harsha Varun Marisetty",
+            "P. Priyanka Chowdary"
+        ],
+        "12":[
+            "Chittaranjan Hota",
+            "Mekala Kiran",
+            "N R Rashmi",
+            "Soriful Momin Nazrul Haque"
+        ]
+    },
+    "New":{
+        "1":[
+            "Paresh Saxena",
+            "S Shashank"
+        ],
+        "2":[
+            "Abhijit Das",
+            "Chaitra C R"
+        ],
+        "3":[
+            "JAY KAMLESH DAVE",
+            "Asmita Biswas"
+        ],
+        "4":[
+            "PARESH SAXENA"
+        ],
+        "5":[
+            "Barsha Mitra",
+            "Ashish Kumar Kumawat"
+        ],
+        "6":[
+            "Rajib Ranjan Maiti"
+        ],
+        "7":[
+            "Apurba Das",
+            "Jaldu Krishna Maitreya"
+        ],
+        "8":[
+            "Chittaranjan Hota"
+        ],
+        "9":[
+            "R Gururaj"
+        ],
+        "10":[
+            "Purohit Nisarg Bharatbhi",
+            "Sunil Rampuria"
+        ],
+        "11":[
+            "NL BHANUMURTHY",
+            "P. Priyanka Chowdary",
+            "Gorrela Alekhya"
+        ],
+        "12":[
+            "Chittaranjan Hota",
+            "Mekala Kiran",
+            "Harsha Varun Mariseeti",
+            "Soriful Momin Nazrul Haque"
+        ]
+    }
+}

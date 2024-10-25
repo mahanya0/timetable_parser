@@ -1,0 +1,158 @@
+{
+    "0":{
+        "Course No":"CS F111",
+        "Course Title":"COMPUTER PROGRAMMING",
+        "Section No":"P7",
+        "Existing":[
+            "Paresh Saxena",
+            "Sadeep Ravikanti"
+        ],
+        "New":[
+            "Paresh Saxena",
+            "S Shashank"
+        ]
+    },
+    "1":{
+        "Course No":"CS F213",
+        "Course Title":"OBJECT ORIENTED PROG",
+        "Section No":"P3",
+        "Existing":[
+            "Abhijit Das",
+            "Sadeep Ravikanti"
+        ],
+        "New":[
+            "Abhijit Das",
+            "Chaitra C R"
+        ]
+    },
+    "2":{
+        "Course No":"BITS F452",
+        "Course Title":"Blockchain Technology",
+        "Section No":"L1",
+        "Existing":[
+            "JAY KAMLESH DAVE",
+            "Asmita Biswas",
+            "Chaitra C R",
+            "S Rasagna Vakkalanka"
+        ],
+        "New":[
+            "JAY KAMLESH DAVE",
+            "Asmita Biswas"
+        ]
+    },
+    "3":{
+        "Course No":"CS F317",
+        "Course Title":"Reinforcement Learning",
+        "Section No":"L1",
+        "Existing":[
+            "PARESH SAXENA",
+            "S Shashank"
+        ],
+        "New":[
+            "PARESH SAXENA"
+        ]
+    },
+    "4":{
+        "Course No":"BITS F232",
+        "Course Title":"Foundations of Data Structures and Algorithms",
+        "Section No":"P1",
+        "Existing":[
+            "Chittaranjan Hota",
+            "Ashish Kumar Kumawat"
+        ],
+        "New":[
+            "Barsha Mitra",
+            "Ashish Kumar Kumawat"
+        ]
+    },
+    "5":{
+        "Course No":"CS F342",
+        "Course Title":"COMPUTER ARCHITECTURE",
+        "Section No":"T3",
+        "Existing":[
+            "Tamoghna Ojha"
+        ],
+        "New":[
+            "Rajib Ranjan Maiti"
+        ]
+    },
+    "6":{
+        "Course No":"CS F222",
+        "Course Title":"DISCR STRUC FOR COMP SCI",
+        "Section No":"T3",
+        "Existing":[
+            "Jaldu Krishna Maitreya"
+        ],
+        "New":[
+            "Apurba Das",
+            "Jaldu Krishna Maitreya"
+        ]
+    },
+    "7":{
+        "Course No":"CS G623",
+        "Course Title":"ADVANCED OPERAT SYSTEMS",
+        "Section No":"L1",
+        "Existing":[
+            "Tamoghna Ojha"
+        ],
+        "New":[
+            "Chittaranjan Hota"
+        ]
+    },
+    "8":{
+        "Course No":"CS F301",
+        "Course Title":"PRINCIPLES OF PROGG LANG",
+        "Section No":"T3",
+        "Existing":[
+            "R Gururaj",
+            "Shreea Bose"
+        ],
+        "New":[
+            "R Gururaj"
+        ]
+    },
+    "9":{
+        "Course No":"MATH F111",
+        "Course Title":"MATHEMATICS I",
+        "Section No":"T10",
+        "Existing":[
+            "Purohit Nisarg Bharatbhi"
+        ],
+        "New":[
+            "Purohit Nisarg Bharatbhi",
+            "Sunil Rampuria"
+        ]
+    },
+    "10":{
+        "Course No":"CS F320",
+        "Course Title":"Foundations of Data Science",
+        "Section No":"L1",
+        "Existing":[
+            "NL BHANUMURTHY",
+            "Harsha Varun Marisetty",
+            "P. Priyanka Chowdary"
+        ],
+        "New":[
+            "NL BHANUMURTHY",
+            "P. Priyanka Chowdary",
+            "Gorrela Alekhya"
+        ]
+    },
+    "11":{
+        "Course No":"BITS F464",
+        "Course Title":"MACHINE LEARNING",
+        "Section No":"L1",
+        "Existing":[
+            "Chittaranjan Hota",
+            "Mekala Kiran",
+            "N R Rashmi",
+            "Soriful Momin Nazrul Haque"
+        ],
+        "New":[
+            "Chittaranjan Hota",
+            "Mekala Kiran",
+            "Harsha Varun Mariseeti",
+            "Soriful Momin Nazrul Haque"
+        ]
+    }
+}
